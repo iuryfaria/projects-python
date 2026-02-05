@@ -8,6 +8,6 @@ Terminal application for manager tasks.
 * Save tasks in archive .txt or .json
 
 # Conceits practiced
-    - Lists and dictionarys
-    - Estructures and repetition
-    - Reading and writing in archiev
+* Lists and dictionarys
+* Estructures and repetition
+* Reading and writing in archiev
