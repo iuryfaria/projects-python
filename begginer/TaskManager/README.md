@@ -2,10 +2,10 @@
 Terminal application for manager tasks.
 
 # Functionality
-    Add tasks
-    List tasks
-    Remove tasks
-    Save tasks in archive .txt or .json
+* Add tasks
+* List tasks
+* Remove tasks
+* Save tasks in archive .txt or .json
 
 # Conceits practiced
     - Lists and dictionarys
