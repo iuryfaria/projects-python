@@ -1,4 +1,4 @@
-# Projectgs Python
+# Projects Python
 Projects for learning and training python. It goes from basic to advanced, easy to learn.
 
 
