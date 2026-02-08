@@ -1,12 +1,12 @@
 # Description
 Converts values between different units
 
-# Examples: 
+# Examples 
 * Celsius ↔ Fahrenheit
 * Kilometers ↔ Miles
 * Real ↔ Dollar (fixed value)
 
-# Conceits practiced
+# Concepts practiced
 * Functions
 * Conditional statements
 * Data input and output

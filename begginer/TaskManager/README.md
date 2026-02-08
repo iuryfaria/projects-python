@@ -1,13 +1,13 @@
 # Description
 Terminal application for manager tasks.
 
-# Functionality
+# Features
 * Add tasks
 * List tasks
 * Remove tasks
 * Save tasks in archive .txt or .json
 
-# Conceits practiced
+# Concepts practiced
 * Lists and dictionarys
 * Estructures and repetition
 * Reading and writing in archiev

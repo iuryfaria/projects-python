@@ -7,6 +7,6 @@ Validate if a password is strong or weak
 * Numbers
 * Especial caracteres
 
-# Conceits practiced
+# Concepts practiced
 * Strings
 * Regular expressions (regex)

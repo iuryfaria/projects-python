@@ -8,6 +8,6 @@ It automatically organizes files into folders by type.
 * VIDEO -> folder Videos
 * DOCUMENT -> folder Documents
 
-# Conceits practiced
+# Concepts practiced
 * Modules os and shutil
 * Directory manipulation
